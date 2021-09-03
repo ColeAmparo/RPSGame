@@ -1,0 +1,7 @@
+bulbasaur 100 200
+charmander 100 400
+squirtle 100 600
+
+turtwig 1100 200
+chimchar 1100 400
+piplup 1100 600
